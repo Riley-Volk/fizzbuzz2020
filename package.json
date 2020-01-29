@@ -1,0 +1,14 @@
+{
+  "name": "fizbuzz2020",
+  "version": "1.0.0",
+  "description": "delete later",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
